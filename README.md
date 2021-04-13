@@ -17,13 +17,19 @@
 ## PCMan File Manager : 1.3.1
 
 ## ZSH : 5.8
+
 ### &nbsp;&nbsp; - Oh My ZSH : 95a06f3
+
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
+
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
 
 ## Android Studio
+
 ### &nbsp;&nbsp; - Android SDK : 30
+
 ### &nbsp;&nbsp; - Stable : 4.1.3
+
 ### &nbsp;&nbsp; - Canary : Arctic Fox (2020.3.1) Canary 14
 
 ## Github CLI : 1.7.0
@@ -36,4 +42,6 @@
 
 ## Anaconda3 : 2020.11
 
-[//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625)"
+[//]:
+  #
+  "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625)"
